@@ -1,7 +1,7 @@
 base   csrlink
 author Gerrit Uitslag
 email  klapinklapin@gmail.com
-date   2014-01-30
+date   2021-04-15
 name   csrlink plugin (modified unblink)
 desc   Verwijzen van lid, boek, groep en document op csrdelft.nl, inclusief toolbarinsertwizard.
 url    https://github.com/csrdelft/dokuwiki-plugin-csrlink
